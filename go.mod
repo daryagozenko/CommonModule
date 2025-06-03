@@ -1,5 +1,4 @@
-module github.com/miqxzz/commonmiqx
-
+module github.com/daryagozenko/CommonModule
 go 1.21
 
 require (
